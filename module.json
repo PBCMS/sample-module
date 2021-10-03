@@ -4,6 +4,7 @@
     "author": "PBCMS developers",
     "version": "1.0.0",
     "repository": "https://github.com/pbcms/sample-module",
+    "license": "GPLv3",
     "listed-in": [
         "https://raw.githubusercontent.com/pbcms/updates/main/modules.json"
     ]
