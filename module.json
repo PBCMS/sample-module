@@ -1,0 +1,10 @@
+{
+    "name": "Sample Module",
+    "description": "A basic sample module for PBCMS",
+    "author": "PBCMS developers",
+    "version": "1.0.0",
+    "repository": "https://github.com/pbcms/sample-module",
+    "listed-in": [
+        "https://raw.githubusercontent.com/pbcms/updates/main/modules.json"
+    ]
+}
