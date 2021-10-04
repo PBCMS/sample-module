@@ -7,6 +7,6 @@
     "repository": "https://github.com/pbcms/sample-module",
     "license": "GPLv3",
     "listed-in": [
-        "https://raw.githubusercontent.com/pbcms/updates/main/modules.json"
+        "https://raw.githubusercontent.com/pbcms/updates/main/modules/stable.json"
     ]
 }
